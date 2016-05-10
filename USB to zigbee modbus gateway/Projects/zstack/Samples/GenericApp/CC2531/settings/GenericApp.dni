@@ -1,0 +1,42 @@
+[DebugChecksum]
+Checksum=535613249
+[DisAssemblyWindow]
+NumStates=_ 1
+State 1=_ 0
+[InstructionProfiling]
+Enabled=_ 0
+[CodeCoverage]
+Enabled=_ 0
+[StackPlugin]
+Enabled=1
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnHow=0
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[Breakpoints]
+Bp0=_ "STD_CODE" "{$PROJ_DIR$\..\..\..\..\..\Components\hal\target\CC2530USB\fat.c}.389.5@1" 0 0 0 0 "" 0 ""
+Bp1=_ "STD_CODE" "{$PROJ_DIR$\..\..\..\..\..\Components\hal\target\CC2530USB\mmc.c}.283.1@1" 0 0 0 0 "" 0 ""
+Bp2=_ "STD_CODE" "{$PROJ_DIR$\..\..\..\..\..\..\..\..\Windows\system32}.445.9@1" 0 0 0 0 "" 0 ""
+Bp3=_ "STD_CODE" "{$PROJ_DIR$\..\..\..\..\..\Components\hal\target\CC2530USB\rfid.c}.445.9@1" 0 0 0 0 "" 0 ""
+Bp4=_ "STD_CODE" "{$PROJ_DIR$\..\..\..\..\..\Components\hal\target\CC2530USB}.500.5@1" 0 0 0 0 "" 0 ""
+Count=5
+[ChipconEmu]
+Stop timers on halt=1
+Leave target running=1
+[Aliases]
+A0=_ "D:\Texas Instruments\GIT_CORD\ZStack-CC2530-2.5.1a\Components\osal\mcu\cc2530\OSAL_Math.s51" ""
+A1=_ "Z:\Designs\Jonathan\Server\Code\work\GATE SERVER\Components\osal\common\OSAL_Memory.c" ""
+A2=_ "Z:\Designs\Jonathan\Server\Code\work\GATE SERVER\Projects\zstack\ZMain\TI2530DB\ZMain.c" ""
+Count=3
+SuppressDialog=0

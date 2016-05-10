@@ -1,0 +1,44 @@
+[DebugChecksum]
+Checksum=823389140
+[DisAssemblyWindow]
+NumStates=_ 1
+State 1=_ 1
+[InstructionProfiling]
+Enabled=_ 0
+[CodeCoverage]
+Enabled=_ 0
+[StackPlugin]
+Enabled=1
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnHow=0
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[Breakpoints]
+Bp0=_ "STD_CODE" "{$PROJ_DIR$\..\..\..\..\..\..\..\..\..\Windows\system32}.245.9@1" 0 0 0 0 "" 0 ""
+Bp1=_ "STD_CODE" "{$PROJ_DIR$\..\..\..\..\..\..\..\..\..\Windows\system32}.298.3@1" 0 0 0 0 "" 0 ""
+Bp2=_ "STD_CODE" "{$PROJ_DIR$\..\..\..\..\..\..\..\..\..\Windows\system32}.380.3@1" 0 0 0 0 "" 0 ""
+Bp3=_ "STD_CODE" "{C:\Users\Administrator\Desktop}.217.5@1" 0 0 0 0 "" 0 ""
+Bp4=_ "STD_CODE" "{$PROJ_DIR$\..\..\ZMain\TI2530ZNP\OnBoard.h}.207.2@1" 0 0 0 0 "" 0 ""
+Bp5=_ "STD_CODE" "{C:\Users\Administrator\Desktop}.4416.3@1" 0 0 0 0 "" 0 ""
+Bp6=_ "STD_CODE" "{C:\Users\Administrator\Desktop}.239.11@1" 0 0 0 0 "" 0 ""
+Bp7=_ "STD_CODE" "{$PROJ_DIR$\..\Source\temcoDevice.c}.236.15@1" 1 0 0 0 "" 0 ""
+Count=8
+[ChipconEmu]
+Stop timers on halt=0
+Leave target running=1
+[Aliases]
+A0=_ "C:\Documents and Settings\Administrator\×ÀÃæ\1\TemcoZNP\Components\stack\zdo\ZDProfile.c" ""
+A1=_ "C:\Documents and Settings\Administrator\×ÀÃæ\1\TemcoZNP\Projects\zstack\ZMain\TI2530ZNP\ZMain.c" ""
+Count=2
+SuppressDialog=0

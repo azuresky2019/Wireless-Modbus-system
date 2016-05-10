@@ -1,0 +1,12 @@
+Rev 01
+Github\Wireless-Modbus-system\Zigbee end device, 2 inputs & wired modbus RS485 output\Projects\zstack\ZNP\CC253x\znp.eww
+For device connectted to end device, modbus to zigbee
+
+Github\Wireless-Modbus-system\Zigbee  RS485 repeater\Projects\zstack\Samples\GenericApp\CC2530DB\GenericApp.eww
+For device connected to host, zigbee to modbus
+
+G:\Github\Wireless-Modbus-system\USB to zigbee modbus gateway\Projects\zstack\Samples\GenericApp\CC2531\GenericApp.eww
+For device connectted via USB to host computer, support SD card
+
+
+-	5/10/2015

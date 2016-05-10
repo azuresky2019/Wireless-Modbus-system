@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>GenericApp/CoordinatorUSB</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>164</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Find-in-Files>
+        
+        
+        
+      <ColumnWidth0>623</ColumnWidth0><ColumnWidth1>80</ColumnWidth1><ColumnWidth2>961</ColumnWidth2></Find-in-Files>
+    <Build><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1174</ColumnWidth1><ColumnWidth2>313</ColumnWidth2><ColumnWidth3>78</ColumnWidth3></Build><TerminalIO/><Debug-Log><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1566</ColumnWidth1></Debug-Log></Static>
+    <Windows>
+      
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-1988-32390</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>GenericApp</ExpandedNode><ExpandedNode>GenericApp/App</ExpandedNode><ExpandedNode>GenericApp/FatFs</ExpandedNode><ExpandedNode>GenericApp/FatFs/option</ExpandedNode><ExpandedNode>GenericApp/HAL</ExpandedNode><ExpandedNode>GenericApp/HAL/Target</ExpandedNode><ExpandedNode>GenericApp/HAL/Target/CC2530USB</ExpandedNode><ExpandedNode>GenericApp/HAL/Target/CC2530USB/Config</ExpandedNode><ExpandedNode>GenericApp/HAL/Target/CC2530USB/Drivers</ExpandedNode><ExpandedNode>GenericApp/MT</ExpandedNode><ExpandedNode>GenericApp/Output</ExpandedNode><ExpandedNode>GenericApp/SD</ExpandedNode><ExpandedNode>GenericApp/Tools</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-2699-837</Identity>
+            <TabName>Find in Files</TabName>
+            <Factory>Find-in-Files</Factory>
+            <Session/>
+          </Tab>
+        <Tab><Identity>TabID-32017-9883</Identity><TabName>Build</TabName><Factory>Build</Factory><Session/></Tab><Tab><Identity>TabID-15576-23622</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab><Tab><Identity>TabID-11728-22147</Identity><TabName>Breakpoints</TabName><Factory>Breakpoints</Factory></Tab></Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd1></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\Components\hal\target\CC2530USB\mmc.c</Filename><XPos>0</XPos><YPos>247</YPos><SelStart>6374</SelStart><SelEnd>6380</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\Components\hal\target\CC2530USB\Sd.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>235</SelStart><SelEnd>235</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\Components\hal\target\CC2530USB\modbus.c</Filename><XPos>0</XPos><YPos>212</YPos><SelStart>21792</SelStart><SelEnd>21792</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Source\GenericApp.c</Filename><XPos>0</XPos><YPos>785</YPos><SelStart>24858</SelStart><SelEnd>24881</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Source\GenericApp.h</Filename><XPos>0</XPos><YPos>69</YPos><SelStart>3909</SelStart><SelEnd>3909</SelEnd></Tab><ActiveTab>4</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\Components\osal\common\OSAL.c</Filename><XPos>0</XPos><YPos>1044</YPos><SelStart>27867</SelStart><SelEnd>27867</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\Components\mt\MT_UART.c</Filename><XPos>0</XPos><YPos>493</YPos><SelStart>5811</SelStart><SelEnd>5811</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\Components\hal\target\CC2530USB\hal_uart.c</Filename><XPos>0</XPos><YPos>198</YPos><SelStart>7066</SelStart><SelEnd>7066</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\Components\hal\target\CC2530USB\mmc.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>709</SelStart><SelEnd>709</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\ZMain\TI2530DB\ZMain.c</Filename><XPos>0</XPos><YPos>60</YPos><SelStart>3051</SelStart><SelEnd>3051</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\Components\hal\target\CC2530USB\hal_board_cfg.h</Filename><XPos>0</XPos><YPos>193</YPos><SelStart>8893</SelStart><SelEnd>8893</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\ZMain\TI2530DB\ZMain.c</Filename><XPos>0</XPos><YPos>60</YPos><SelStart>3263</SelStart><SelEnd>3263</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\Components\hal\target\CC2530USB\rfid.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>9872</SelStart><SelEnd>9872</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\Components\hal\target\CC2530USB\modbus.h</Filename><XPos>0</XPos><YPos>11</YPos><SelStart>1097</SelStart><SelEnd>1097</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\Components\hal\target\CC2530USB\i2c.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>178</SelStart><SelEnd>178</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\Components\hal\target\CC2530USB\i2c.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>5</SelStart><SelEnd>5</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\Components\fatFs\ff.c</Filename><XPos>0</XPos><YPos>2227</YPos><SelStart>82249</SelStart><SelEnd>82249</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\Tools\CC2530DB\f8wConfig.cfg</Filename><XPos>0</XPos><YPos>12</YPos><SelStart>1533</SelStart><SelEnd>1533</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\Components\mt\MT.h</Filename><XPos>0</XPos><YPos>337</YPos><SelStart>17242</SelStart><SelEnd>17242</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\Components\mt\MT_UTIL.c</Filename><XPos>0</XPos><YPos>915</YPos><SelStart>26540</SelStart><SelEnd>26540</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-00e1ee28><key>iaridepm.enu1</key></Toolbar-00e1ee28></Sizes></Row0></Top><Left><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>592</Bottom><Right>255</Right><x>-2</x><y>-2</y><xscreen>116</xscreen><yscreen>156</yscreen><sizeHorzCX>81461</sizeHorzCX><sizeHorzCY>202861</sizeHorzCY><sizeVertCX>180478</sizeVertCX><sizeVertCY>772432</sizeVertCY></Rect></Wnd0></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>132</Bottom><Right>1426</Right><x>-2</x><y>-2</y><xscreen>1428</xscreen><yscreen>134</yscreen><sizeHorzCX>1002809</sizeHorzCX><sizeHorzCY>174252</sizeHorzCY><sizeVertCX>81461</sizeVertCX><sizeVertCY>202861</sizeVertCY></Rect></Wnd1></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
