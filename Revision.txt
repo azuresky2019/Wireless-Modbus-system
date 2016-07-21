@@ -10,3 +10,20 @@ For device connectted via USB to host computer, support SD card
 
 
 -	5/10/2015
+
+
+Rev 01
+
+Rename folders
+
+ZigbeeInputModule
+For device connectted to end device, modbus to zigbee
+
+Zigbee  RS485 repeater
+For device connected to host, zigbee to modbus
+
+Zigbee Server
+For device connectted via USB to host computer, support SD card
+
+
+-	7/21/2016
